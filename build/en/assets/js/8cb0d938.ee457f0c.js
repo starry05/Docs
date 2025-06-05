@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrokae_doc=self.webpackChunkrokae_doc||[]).push([[3434],{110:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/rokae-doc/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

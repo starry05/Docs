@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrokae_doc=self.webpackChunkrokae_doc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/Docs/en/blog","blogTitle":"Blog","authorsListPath":"/Docs/en/blog/authors"}')}}]);
