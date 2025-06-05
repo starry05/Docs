@@ -1,0 +1,8 @@
+{
+  "label": "软件/文档资源下载",
+  "position": 4,
+  "link": {
+    "type": "doc",
+    "id": "down"
+  }
+}
