@@ -23,5 +23,9 @@
   "previous": {
     "title": "SDK-C# 简介",
     "permalink": "/en/docs/SDK/csharp/cs_Intro"
+  },
+  "next": {
+    "title": "软件/文档资源下载",
+    "permalink": "/en/docs/DownLoad"
   }
 }

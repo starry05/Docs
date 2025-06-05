@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://starry05.github.io",
+  "baseUrl": "/en/",
+  "organizationName": "starry05",
+  "projectName": "Docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "scripts": [
@@ -95,9 +95,9 @@ export default {
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "Rokae DOC",
+      "title": "My Site",
       "logo": {
-        "alt": "Rokae DOC",
+        "alt": "My Site Logo",
         "src": "Logo/珞石_logo_红底.jpg"
       },
       "items": [
