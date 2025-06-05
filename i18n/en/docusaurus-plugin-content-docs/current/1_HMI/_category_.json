@@ -1,0 +1,9 @@
+{
+  "label": "HMI",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/HMI",
+    "title": "HMI 文档总览"
+  }
+}

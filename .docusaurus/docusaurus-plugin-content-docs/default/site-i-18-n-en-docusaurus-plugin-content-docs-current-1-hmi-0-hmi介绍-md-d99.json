@@ -1,0 +1,31 @@
+{
+  "id": "HMI/HMI_Intro",
+  "title": "HMI 简介",
+  "description": "本文档介绍如何快速开始使用 HMI",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_HMI/0_HMI介绍.md",
+  "sourceDirName": "1_HMI",
+  "slug": "/HMI/",
+  "permalink": "/en/docs/HMI/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current/1_HMI/0_HMI介绍.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "HMI_Intro",
+    "title": "HMI 简介",
+    "sidebar_label": "HMI 简介",
+    "slug": "/HMI/",
+    "description": "本文档介绍如何快速开始使用 HMI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HMI",
+    "permalink": "/en/docs/HMI"
+  },
+  "next": {
+    "title": "SDK",
+    "permalink": "/en/docs/SDK"
+  }
+}

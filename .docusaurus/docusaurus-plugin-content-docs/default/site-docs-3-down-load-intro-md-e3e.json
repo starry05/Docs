@@ -1,0 +1,26 @@
+{
+  "id": "DownLoad/down",
+  "title": "软件/文档资源下载",
+  "description": "软件/文档资源下载",
+  "source": "@site/docs/3_DownLoad/intro.md",
+  "sourceDirName": "3_DownLoad",
+  "slug": "/DownLoad",
+  "permalink": "/docs/DownLoad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_DownLoad/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "down",
+    "title": "软件/文档资源下载",
+    "sidebar_label": "软件/文档资源下载",
+    "slug": "/DownLoad",
+    "description": "软件/文档资源下载"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK-C# 接口说明",
+    "permalink": "/docs/SDK/csharp/cs_API"
+  }
+}

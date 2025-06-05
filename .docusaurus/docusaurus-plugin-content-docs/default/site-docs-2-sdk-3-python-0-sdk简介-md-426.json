@@ -1,0 +1,30 @@
+{
+  "id": "SDK/python/py_Intro",
+  "title": "SDK-Python简介",
+  "description": "本文档介绍如何快速开始使用SDK",
+  "source": "@site/docs/2_SDK/3_python/0_SDK简介.md",
+  "sourceDirName": "2_SDK/3_python",
+  "slug": "/SDK/python/py_Intro",
+  "permalink": "/docs/SDK/python/py_Intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/3_python/0_SDK简介.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "py_Intro",
+    "title": "SDK-Python简介",
+    "sidebar_label": "SDK-Python简介",
+    "description": "本文档介绍如何快速开始使用SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python SDK",
+    "permalink": "/docs/SDK/python"
+  },
+  "next": {
+    "title": "SDK-Python 接口说明",
+    "permalink": "/docs/SDK/python/py_API"
+  }
+}

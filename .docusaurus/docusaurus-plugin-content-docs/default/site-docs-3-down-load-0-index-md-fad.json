@@ -1,0 +1,27 @@
+{
+  "id": "DownLoad/down",
+  "title": "软件/文档资源下载",
+  "description": "本文档介绍如何快速开始使用SDK",
+  "source": "@site/docs/3_DownLoad/0_index.md",
+  "sourceDirName": "3_DownLoad",
+  "slug": "/DownLoad",
+  "permalink": "/docs/DownLoad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_DownLoad/0_index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "down",
+    "title": "软件/文档资源下载",
+    "sidebar_label": "软件/文档资源下载",
+    "slug": "/DownLoad",
+    "description": "本文档介绍如何快速开始使用SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "软件/文档资源下载",
+    "permalink": "/docs/DownLoad"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "SDK/cpp/cpp_class",
+  "title": "附录 C++ 类型",
+  "description": "本文档说明介绍附录 C++ 类型",
+  "source": "@site/docs/2_SDK/2_cpp/5_附录_类型.md",
+  "sourceDirName": "2_SDK/2_cpp",
+  "slug": "/SDK/cpp/cpp_class",
+  "permalink": "/docs/SDK/cpp/cpp_class",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/2_cpp/5_附录_类型.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "cpp_class",
+    "title": "附录 C++ 类型",
+    "sidebar_label": "附录 C++ 类型",
+    "description": "本文档说明介绍附录 C++ 类型"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用示例",
+    "permalink": "/docs/SDK/cpp/cpp_example"
+  },
+  "next": {
+    "title": "附录 C++ 数据结构",
+    "permalink": "/docs/SDK/cpp/cpp_data"
+  }
+}

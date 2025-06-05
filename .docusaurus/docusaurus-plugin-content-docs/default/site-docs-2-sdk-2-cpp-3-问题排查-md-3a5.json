@@ -1,0 +1,30 @@
+{
+  "id": "SDK/cpp/cpp_problem",
+  "title": "注意事项与问题排查",
+  "description": "本文档说明介绍C++错误码和异常说明",
+  "source": "@site/docs/2_SDK/2_cpp/3_问题排查.md",
+  "sourceDirName": "2_SDK/2_cpp",
+  "slug": "/SDK/cpp/cpp_problem",
+  "permalink": "/docs/SDK/cpp/cpp_problem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/2_cpp/3_问题排查.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "cpp_problem",
+    "title": "注意事项与问题排查",
+    "sidebar_label": "注意事项与问题排查",
+    "description": "本文档说明介绍C++错误码和异常说明"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "错误码和异常说明",
+    "permalink": "/docs/SDK/cpp/cpp_error"
+  },
+  "next": {
+    "title": "使用示例",
+    "permalink": "/docs/SDK/cpp/cpp_example"
+  }
+}

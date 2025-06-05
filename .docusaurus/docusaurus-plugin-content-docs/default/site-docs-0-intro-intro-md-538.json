@@ -1,0 +1,23 @@
+{
+  "id": "Intro/intro",
+  "title": "Rokae Robot",
+  "description": "术语表",
+  "source": "@site/docs/0_Intro/intro.md",
+  "sourceDirName": "0_Intro",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/0_Intro/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "HMI",
+    "permalink": "/docs/HMI"
+  }
+}

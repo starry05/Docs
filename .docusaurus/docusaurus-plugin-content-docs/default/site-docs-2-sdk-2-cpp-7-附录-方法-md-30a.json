@@ -1,0 +1,30 @@
+{
+  "id": "SDK/cpp/cpp_method",
+  "title": "SDK-C++ 方法说明",
+  "description": "本文档说明介绍C++方法",
+  "source": "@site/docs/2_SDK/2_cpp/7_附录_方法.md",
+  "sourceDirName": "2_SDK/2_cpp",
+  "slug": "/SDK/cpp/cpp_method",
+  "permalink": "/docs/SDK/cpp/cpp_method",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/2_cpp/7_附录_方法.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "cpp_method",
+    "title": "SDK-C++ 方法说明",
+    "sidebar_label": "SDK-C++方法说明",
+    "description": "本文档说明介绍C++方法"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "附录 C++ 数据结构",
+    "permalink": "/docs/SDK/cpp/cpp_data"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/docs/SDK/python"
+  }
+}
