@@ -5,12 +5,12 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/4_csharp/1_接口说明.md",
   "sourceDirName": "2_SDK/4_csharp",
   "slug": "/SDK/csharp/cs_API",
-  "permalink": "/en/docs/SDK/csharp/cs_API",
+  "permalink": "/Docs/en/docs/SDK/csharp/cs_API",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/4_csharp/1_接口说明.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "cs_API",
@@ -22,10 +22,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK-C# 简介",
-    "permalink": "/en/docs/SDK/csharp/cs_Intro"
+    "permalink": "/Docs/en/docs/SDK/csharp/cs_Intro"
   },
   "next": {
     "title": "软件/文档资源下载",
-    "permalink": "/en/docs/DownLoad"
+    "permalink": "/Docs/en/docs/DownLoad"
   }
 }

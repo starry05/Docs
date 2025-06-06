@@ -5,12 +5,12 @@
   "source": "@site/docs/0_Intro/intro.md",
   "sourceDirName": "0_Intro",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/Docs/docs/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/0_Intro/intro.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "frontMatter": {
     "id": "intro",
     "slug": "/"
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "HMI",
-    "permalink": "/docs/HMI"
+    "permalink": "/Docs/docs/HMI"
   }
 }

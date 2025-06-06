@@ -1,364 +1,164 @@
 {
-  "/en/blog-8b4": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "22f9ffc3"
-  },
-  "/en/blog/archive-d28": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "c5fd9dbb"
-  },
-  "/en/blog/authors-32d": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "81ec5f34"
-  },
-  "/en/blog/authors/all-sebastien-lorber-articles-444": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "339d1b83"
-  },
-  "/en/blog/authors/yangshun-26c": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "ffa2c7a5"
-  },
-  "/en/blog/first-blog-post-e3f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
-  },
-  "/en/blog/long-blog-post-3fa": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/en/blog/mdx-blog-post-d71": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/en/blog/tags-fb7": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "5311454b"
-  },
-  "/en/blog/tags/docusaurus-db4": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "ed8789cf"
-  },
-  "/en/blog/tags/facebook-7ad": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      }
-    ],
-    "__props": "345a2cdb"
-  },
-  "/en/blog/tags/hello-08b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "__props": "55745942"
-  },
-  "/en/blog/tags/hola-73b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "90e57ba8"
-  },
-  "/en/blog/welcome-31d": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/en/markdown-page-63b": {
+  "/Docs/en/markdown-page-199": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/en/docs-398": {
+  "/Docs/en/docs-e74": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/en/docs/1.0.0-b79": {
+  "/Docs/en/docs/1.0.0-8c5": {
     "__comp": "a7bd4aaa",
-    "__props": "1b305530"
+    "__props": "faf74a04"
   },
-  "/en/docs/1.0.0-a84": {
+  "/Docs/en/docs/1.0.0-f2a": {
     "__comp": "a94703ab"
   },
-  "/en/docs/1.0.0/category/tutorial---basics-40d": {
+  "/Docs/en/docs/1.0.0/category/tutorial---basics-24f": {
     "__comp": "14eb3368",
-    "__props": "593b7fe0"
+    "__props": "c30502d4"
   },
-  "/en/docs/1.0.0/category/tutorial---extras-1f9": {
+  "/Docs/en/docs/1.0.0/category/tutorial---extras-963": {
     "__comp": "14eb3368",
-    "__props": "cf2e9bee"
+    "__props": "b2b67b06"
   },
-  "/en/docs/1.0.0/intro-a1e": {
+  "/Docs/en/docs/1.0.0/intro-d24": {
     "__comp": "17896441",
     "content": "ba8febcd"
   },
-  "/en/docs/1.0.0/tutorial-basics/congratulations-00c": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/congratulations-626": {
     "__comp": "17896441",
     "content": "4b166c35"
   },
-  "/en/docs/1.0.0/tutorial-basics/create-a-blog-post-23d": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/create-a-blog-post-bbb": {
     "__comp": "17896441",
     "content": "f82b95ae"
   },
-  "/en/docs/1.0.0/tutorial-basics/create-a-document-ad0": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/create-a-document-940": {
     "__comp": "17896441",
     "content": "2204aa6e"
   },
-  "/en/docs/1.0.0/tutorial-basics/create-a-page-ee9": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/create-a-page-db2": {
     "__comp": "17896441",
     "content": "ebb70179"
   },
-  "/en/docs/1.0.0/tutorial-basics/deploy-your-site-1ee": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/deploy-your-site-d1f": {
     "__comp": "17896441",
     "content": "f1718098"
   },
-  "/en/docs/1.0.0/tutorial-basics/markdown-features-264": {
+  "/Docs/en/docs/1.0.0/tutorial-basics/markdown-features-bf3": {
     "__comp": "17896441",
     "content": "df87cca2"
   },
-  "/en/docs/1.0.0/tutorial-extras/manage-docs-versions-ecb": {
+  "/Docs/en/docs/1.0.0/tutorial-extras/manage-docs-versions-981": {
     "__comp": "17896441",
     "content": "3a6522a7"
   },
-  "/en/docs/1.0.0/tutorial-extras/translate-your-site-59d": {
+  "/Docs/en/docs/1.0.0/tutorial-extras/translate-your-site-dbc": {
     "__comp": "17896441",
     "content": "45f4d551"
   },
-  "/en/docs-488": {
+  "/Docs/en/docs-00f": {
     "__comp": "a7bd4aaa",
-    "__props": "0abf49b1"
+    "__props": "c160123c"
   },
-  "/en/docs-dfb": {
+  "/Docs/en/docs-2be": {
     "__comp": "a94703ab"
   },
-  "/en/docs/-f1f": {
+  "/Docs/en/docs/-cad": {
     "__comp": "17896441",
     "content": "af749b73"
   },
-  "/en/docs/DownLoad-1a1": {
+  "/Docs/en/docs/DownLoad-96f": {
     "__comp": "17896441",
     "content": "03c1f2bf"
   },
-  "/en/docs/HMI-ebe": {
+  "/Docs/en/docs/HMI-b4f": {
     "__comp": "14eb3368",
-    "__props": "284970c2"
+    "__props": "b752a7b3"
   },
-  "/en/docs/HMI/-358": {
+  "/Docs/en/docs/HMI/-78e": {
     "__comp": "17896441",
     "content": "d9904fcc"
   },
-  "/en/docs/SDK-1b0": {
+  "/Docs/en/docs/SDK-c3f": {
     "__comp": "14eb3368",
-    "__props": "fa9792eb"
+    "__props": "b463d282"
   },
-  "/en/docs/SDK/cpp-807": {
+  "/Docs/en/docs/SDK/cpp-d4e": {
     "__comp": "14eb3368",
-    "__props": "8e3b8c88"
+    "__props": "885e5396"
   },
-  "/en/docs/SDK/cpp/cpp_API-f8c": {
+  "/Docs/en/docs/SDK/cpp/cpp_API-b01": {
     "__comp": "17896441",
     "content": "06ff6c1e"
   },
-  "/en/docs/SDK/cpp/cpp_class-244": {
+  "/Docs/en/docs/SDK/cpp/cpp_class-e5e": {
     "__comp": "17896441",
     "content": "e1306ead"
   },
-  "/en/docs/SDK/cpp/cpp_data-08f": {
+  "/Docs/en/docs/SDK/cpp/cpp_data-f8e": {
     "__comp": "17896441",
     "content": "fa352a58"
   },
-  "/en/docs/SDK/cpp/cpp_error-72b": {
+  "/Docs/en/docs/SDK/cpp/cpp_error-06e": {
     "__comp": "17896441",
     "content": "3541f386"
   },
-  "/en/docs/SDK/cpp/cpp_example-686": {
+  "/Docs/en/docs/SDK/cpp/cpp_example-4e5": {
     "__comp": "17896441",
     "content": "b628f1e2"
   },
-  "/en/docs/SDK/cpp/cpp_Intro-bba": {
+  "/Docs/en/docs/SDK/cpp/cpp_Intro-5a3": {
     "__comp": "17896441",
     "content": "ff078e8c"
   },
-  "/en/docs/SDK/cpp/cpp_method-d0a": {
+  "/Docs/en/docs/SDK/cpp/cpp_method-500": {
     "__comp": "17896441",
     "content": "1378215a"
   },
-  "/en/docs/SDK/cpp/cpp_problem-a02": {
+  "/Docs/en/docs/SDK/cpp/cpp_problem-10f": {
     "__comp": "17896441",
     "content": "3f82db0d"
   },
-  "/en/docs/SDK/cs-c84": {
+  "/Docs/en/docs/SDK/cs-e0c": {
     "__comp": "14eb3368",
-    "__props": "e34adc9d"
+    "__props": "8f1ee399"
   },
-  "/en/docs/SDK/csharp/cs_API-6c7": {
+  "/Docs/en/docs/SDK/csharp/cs_API-d5d": {
     "__comp": "17896441",
     "content": "c7805718"
   },
-  "/en/docs/SDK/csharp/cs_Intro-fa7": {
+  "/Docs/en/docs/SDK/csharp/cs_Intro-464": {
     "__comp": "17896441",
     "content": "8c37140f"
   },
-  "/en/docs/SDK/python-b97": {
+  "/Docs/en/docs/SDK/python-6bb": {
     "__comp": "14eb3368",
-    "__props": "66b51475"
+    "__props": "6f83913c"
   },
-  "/en/docs/SDK/python/py_API-1d8": {
+  "/Docs/en/docs/SDK/python/py_API-68b": {
     "__comp": "17896441",
     "content": "ccfc8006"
   },
-  "/en/docs/SDK/python/py_Intro-35f": {
+  "/Docs/en/docs/SDK/python/py_Intro-d11": {
     "__comp": "17896441",
     "content": "ccd02456"
   },
-  "/en/docs/SDK/quick_start-3e0": {
+  "/Docs/en/docs/SDK/quick_start-462": {
     "__comp": "17896441",
     "content": "81711faf"
   },
-  "/en/docs/SDK/SDK_Intro-e11": {
+  "/Docs/en/docs/SDK/SDK_Intro-f26": {
     "__comp": "17896441",
     "content": "7a289efd"
   },
-  "/en/-d3c": {
+  "/Docs/en/-a0d": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

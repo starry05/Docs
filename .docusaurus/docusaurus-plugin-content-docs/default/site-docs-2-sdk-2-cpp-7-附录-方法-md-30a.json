@@ -5,12 +5,12 @@
   "source": "@site/docs/2_SDK/2_cpp/7_附录_方法.md",
   "sourceDirName": "2_SDK/2_cpp",
   "slug": "/SDK/cpp/cpp_method",
-  "permalink": "/docs/SDK/cpp/cpp_method",
+  "permalink": "/Docs/docs/SDK/cpp/cpp_method",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/2_cpp/7_附录_方法.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 7,
   "frontMatter": {
     "id": "cpp_method",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "附录 C++ 数据结构",
-    "permalink": "/docs/SDK/cpp/cpp_data"
+    "permalink": "/Docs/docs/SDK/cpp/cpp_data"
   },
   "next": {
     "title": "Python SDK",
-    "permalink": "/docs/SDK/python"
+    "permalink": "/Docs/docs/SDK/python"
   }
 }

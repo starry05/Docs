@@ -5,12 +5,12 @@
   "source": "@site/docs/2_SDK/2_cpp/0_SDK简介.md",
   "sourceDirName": "2_SDK/2_cpp",
   "slug": "/SDK/cpp/cpp_Intro",
-  "permalink": "/docs/SDK/cpp/cpp_Intro",
+  "permalink": "/Docs/docs/SDK/cpp/cpp_Intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/2_cpp/0_SDK简介.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 0,
   "frontMatter": {
     "id": "cpp_Intro",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "C++ SDK",
-    "permalink": "/docs/SDK/cpp"
+    "permalink": "/Docs/docs/SDK/cpp"
   },
   "next": {
     "title": "SDK-C++接口说明",
-    "permalink": "/docs/SDK/cpp/cpp_API"
+    "permalink": "/Docs/docs/SDK/cpp/cpp_API"
   }
 }

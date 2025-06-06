@@ -5,12 +5,12 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/2_cpp/5_附录_类型.md",
   "sourceDirName": "2_SDK/2_cpp",
   "slug": "/SDK/cpp/cpp_class",
-  "permalink": "/en/docs/SDK/cpp/cpp_class",
+  "permalink": "/Docs/en/docs/SDK/cpp/cpp_class",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/2_cpp/5_附录_类型.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 5,
   "frontMatter": {
     "id": "cpp_class",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "使用示例",
-    "permalink": "/en/docs/SDK/cpp/cpp_example"
+    "permalink": "/Docs/en/docs/SDK/cpp/cpp_example"
   },
   "next": {
     "title": "附录 C++ 数据结构",
-    "permalink": "/en/docs/SDK/cpp/cpp_data"
+    "permalink": "/Docs/en/docs/SDK/cpp/cpp_data"
   }
 }

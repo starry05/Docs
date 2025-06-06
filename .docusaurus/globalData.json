@@ -1,123 +1,123 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/en/docs",
+      "path": "/Docs/en/docs",
       "versions": [
         {
           "name": "current",
-          "label": "Current",
+          "label": "Next",
           "isLast": true,
-          "path": "/en/docs",
+          "path": "/Docs/en/docs",
           "mainDocId": "Intro/intro",
           "docs": [
             {
               "id": "DownLoad/down",
-              "path": "/en/docs/DownLoad",
+              "path": "/Docs/en/docs/DownLoad",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HMI/HMI_Intro",
-              "path": "/en/docs/HMI/",
+              "path": "/Docs/en/docs/HMI/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Intro/intro",
-              "path": "/en/docs/",
+              "path": "/Docs/en/docs/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_API",
-              "path": "/en/docs/SDK/cpp/cpp_API",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_API",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_class",
-              "path": "/en/docs/SDK/cpp/cpp_class",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_class",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_data",
-              "path": "/en/docs/SDK/cpp/cpp_data",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_data",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_error",
-              "path": "/en/docs/SDK/cpp/cpp_error",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_error",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_example",
-              "path": "/en/docs/SDK/cpp/cpp_example",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_example",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_Intro",
-              "path": "/en/docs/SDK/cpp/cpp_Intro",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_Intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_method",
-              "path": "/en/docs/SDK/cpp/cpp_method",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_method",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/cpp/cpp_problem",
-              "path": "/en/docs/SDK/cpp/cpp_problem",
+              "path": "/Docs/en/docs/SDK/cpp/cpp_problem",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/csharp/cs_API",
-              "path": "/en/docs/SDK/csharp/cs_API",
+              "path": "/Docs/en/docs/SDK/csharp/cs_API",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/csharp/cs_Intro",
-              "path": "/en/docs/SDK/csharp/cs_Intro",
+              "path": "/Docs/en/docs/SDK/csharp/cs_Intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/python/py_API",
-              "path": "/en/docs/SDK/python/py_API",
+              "path": "/Docs/en/docs/SDK/python/py_API",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/python/py_Intro",
-              "path": "/en/docs/SDK/python/py_Intro",
+              "path": "/Docs/en/docs/SDK/python/py_Intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/quick_start",
-              "path": "/en/docs/SDK/quick_start",
+              "path": "/Docs/en/docs/SDK/quick_start",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDK/SDK_Intro",
-              "path": "/en/docs/SDK/SDK_Intro",
+              "path": "/Docs/en/docs/SDK/SDK_Intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/HMI",
-              "path": "/en/docs/HMI",
+              "path": "/Docs/en/docs/HMI",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/SDK",
-              "path": "/en/docs/SDK",
+              "path": "/Docs/en/docs/SDK",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/SDK/cpp",
-              "path": "/en/docs/SDK/cpp",
+              "path": "/Docs/en/docs/SDK/cpp",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/SDK/python",
-              "path": "/en/docs/SDK/python",
+              "path": "/Docs/en/docs/SDK/python",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/SDK/cs",
-              "path": "/en/docs/SDK/cs",
+              "path": "/Docs/en/docs/SDK/cs",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -125,7 +125,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/en/docs/",
+                "path": "/Docs/en/docs/",
                 "label": "概述"
               }
             }
@@ -133,64 +133,64 @@
         },
         {
           "name": "1.0.0",
-          "label": "Current",
+          "label": "1.0.0",
           "isLast": false,
-          "path": "/en/docs/1.0.0",
+          "path": "/Docs/en/docs/1.0.0",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/en/docs/1.0.0/intro",
+              "path": "/Docs/en/docs/1.0.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/en/docs/1.0.0/tutorial-basics/congratulations",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/en/docs/1.0.0/tutorial-basics/create-a-blog-post",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/en/docs/1.0.0/tutorial-basics/create-a-document",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/en/docs/1.0.0/tutorial-basics/create-a-page",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/en/docs/1.0.0/tutorial-basics/deploy-your-site",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/en/docs/1.0.0/tutorial-basics/markdown-features",
+              "path": "/Docs/en/docs/1.0.0/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/en/docs/1.0.0/tutorial-extras/manage-docs-versions",
+              "path": "/Docs/en/docs/1.0.0/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/en/docs/1.0.0/tutorial-extras/translate-your-site",
+              "path": "/Docs/en/docs/1.0.0/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/en/docs/1.0.0/category/tutorial---basics",
+              "path": "/Docs/en/docs/1.0.0/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/en/docs/1.0.0/category/tutorial---extras",
+              "path": "/Docs/en/docs/1.0.0/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -198,7 +198,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/en/docs/1.0.0/intro",
+                "path": "/Docs/en/docs/1.0.0/intro",
                 "label": "intro"
               }
             }

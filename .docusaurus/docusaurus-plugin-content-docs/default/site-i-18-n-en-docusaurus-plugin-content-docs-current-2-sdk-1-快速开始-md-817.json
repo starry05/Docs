@@ -5,12 +5,12 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/1_快速开始.md",
   "sourceDirName": "2_SDK",
   "slug": "/SDK/quick_start",
-  "permalink": "/en/docs/SDK/quick_start",
+  "permalink": "/Docs/en/docs/SDK/quick_start",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/1_快速开始.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 2,
   "frontMatter": {
     "id": "quick_start",
@@ -22,10 +22,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK简介",
-    "permalink": "/en/docs/SDK/SDK_Intro"
+    "permalink": "/Docs/en/docs/SDK/SDK_Intro"
   },
   "next": {
     "title": "C++ SDK",
-    "permalink": "/en/docs/SDK/cpp"
+    "permalink": "/Docs/en/docs/SDK/cpp"
   }
 }

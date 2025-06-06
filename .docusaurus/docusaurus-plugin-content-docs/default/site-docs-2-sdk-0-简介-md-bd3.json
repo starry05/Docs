@@ -5,12 +5,12 @@
   "source": "@site/docs/2_SDK/0_简介.md",
   "sourceDirName": "2_SDK",
   "slug": "/SDK/SDK_Intro",
-  "permalink": "/docs/SDK/SDK_Intro",
+  "permalink": "/Docs/docs/SDK/SDK_Intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/0_简介.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 0,
   "frontMatter": {
     "id": "SDK_Intro",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK",
-    "permalink": "/docs/SDK"
+    "permalink": "/Docs/docs/SDK"
   },
   "next": {
     "title": "快速开始",
-    "permalink": "/docs/SDK/quick_start"
+    "permalink": "/Docs/docs/SDK/quick_start"
   }
 }

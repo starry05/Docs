@@ -5,29 +5,21 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'SDK',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        
-      </>
-    ),
+    image: require('@site/static/img/components/SDK_button.png').default,
+    description: '软件开发工具包介绍',
   },
   {
     title: 'HMI',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        
-      </>
-    ),
+    image: require('@site/static/img/components/HMI_button.png').default,
+    description: '人机交互界面文档',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import IconUp from '@site/static/img/backToTop.svg'
+import IconUp from '@site/static/img/components/backToTop.svg'
 export default function BackToTopButton() {
   // const [visible, setVisible] = useState(false);
 

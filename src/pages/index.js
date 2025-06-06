@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/">
-            Rokae Tutorial - 5min ⏱️
+            快速开始 - 5min ⏱️
           </Link>
         </div>
       </div>

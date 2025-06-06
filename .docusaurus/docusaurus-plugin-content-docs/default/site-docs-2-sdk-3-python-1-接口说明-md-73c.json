@@ -5,12 +5,12 @@
   "source": "@site/docs/2_SDK/3_python/1_接口说明.md",
   "sourceDirName": "2_SDK/3_python",
   "slug": "/SDK/python/py_API",
-  "permalink": "/docs/SDK/python/py_API",
+  "permalink": "/Docs/docs/SDK/python/py_API",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2_SDK/3_python/1_接口说明.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "py_API",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK-Python简介",
-    "permalink": "/docs/SDK/python/py_Intro"
+    "permalink": "/Docs/docs/SDK/python/py_Intro"
   },
   "next": {
     "title": "C# SDK",
-    "permalink": "/docs/SDK/cs"
+    "permalink": "/Docs/docs/SDK/cs"
   }
 }

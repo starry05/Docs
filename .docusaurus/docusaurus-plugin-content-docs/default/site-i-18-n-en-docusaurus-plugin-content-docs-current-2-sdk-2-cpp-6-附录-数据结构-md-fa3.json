@@ -5,12 +5,12 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/2_cpp/6_附录_数据结构.md",
   "sourceDirName": "2_SDK/2_cpp",
   "slug": "/SDK/cpp/cpp_data",
-  "permalink": "/en/docs/SDK/cpp/cpp_data",
+  "permalink": "/Docs/en/docs/SDK/cpp/cpp_data",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current/2_SDK/2_cpp/6_附录_数据结构.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedAt": 1749091054000,
   "sidebarPosition": 6,
   "frontMatter": {
     "id": "cpp_data",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "附录 C++ 类型",
-    "permalink": "/en/docs/SDK/cpp/cpp_class"
+    "permalink": "/Docs/en/docs/SDK/cpp/cpp_class"
   },
   "next": {
     "title": "SDK-C++方法说明",
-    "permalink": "/en/docs/SDK/cpp/cpp_method"
+    "permalink": "/Docs/en/docs/SDK/cpp/cpp_method"
   }
 }

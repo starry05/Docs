@@ -4,9 +4,9 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Rokae DOC",
-  "tagline": "珞石文档",
-  "favicon": "Logo/珞石_logo_红底.jpg",
+  "title": "珞石",
+  "tagline": "珞石在线文档",
+  "favicon": "img/logo/珞石_logo_红底.jpg",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": false,
@@ -29,7 +29,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://starry05.github.io",
-  "baseUrl": "/en/",
+  "baseUrl": "/Docs/en/",
   "organizationName": "starry05",
   "projectName": "Docs",
   "onBrokenLinks": "throw",
@@ -55,29 +55,15 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "lastVersion": "current",
           "editLocalizedFiles": true,
+          "showLastUpdateTime": true,
           "remarkPlugins": [
             null
           ],
           "rehypePlugins": [
             null
           ]
-        },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -86,7 +72,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "Logo/珞石_logo_红底.jpg",
+    "image": "img/logo/珞石_logo_红底.jpg",
     "docs": {
       "sidebar": {
         "hideable": true,
@@ -95,22 +81,17 @@ export default {
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "My Site",
+      "title": "Rokae",
       "logo": {
         "alt": "My Site Logo",
-        "src": "Logo/珞石_logo_红底.jpg"
+        "src": "img/logo/珞石_logo_红底.jpg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "教程"
-        },
-        {
-          "to": "/blog",
-          "label": "博客",
-          "position": "left"
+          "label": "docs"
         },
         {
           "type": "localeDropdown",
@@ -129,52 +110,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "文档",
-          "items": [
-            {
-              "label": "HMI Tutorial",
-              "to": "/docs"
-            },
-            {
-              "label": "SDK Tutorial",
-              "to": "/docs"
-            }
-          ]
-        },
-        {
-          "title": "社群",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "更多",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus.",
+      "links": []
     },
     "prism": {
       "theme": {
